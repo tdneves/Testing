@@ -37,5 +37,6 @@ public class MainActivity extends ActionBarActivity {
     public void chato()
     {
     	System.out.println("TU es gay");
+    	System.out.println("A tua avo nao?");
     }
 }
